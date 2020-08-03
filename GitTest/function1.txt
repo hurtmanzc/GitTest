@@ -1,0 +1,5 @@
+add function1
+from function1
+add function2
+from function2
+fix bug1
